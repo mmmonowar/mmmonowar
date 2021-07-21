@@ -8,7 +8,16 @@ This is Mustafa. I test tools for Knowledge Management:
 - 🔭 I’m currently working on a Blog on Knowledge Management and Business Insights
 - 🌱 I’m currently trying to master Zettelkasten
 
-[<img align="left" alt="Profile" width="22px" src="https://cdn-images-1.medium.com/max/1200/1*_66Bcx0UVgJhsnsU7rke_w.png" />][website]
+#### View My Detailed Profile
+
+
+ [<img align="left" alt="Profile" width="22px" src="https://cdn-images-1.medium.com/max/1200/1*_66Bcx0UVgJhsnsU7rke_w.png" />][website]
+
+
+<br/>
+
+#### View My Blog
+
 
 [<img align="left" alt="PhinixBlogs" width="22px" src="https://phinixgreen.github.io/phinixblogs/assets/images/wallwinterw.png" />][blog]
 
