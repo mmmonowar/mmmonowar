@@ -1,4 +1,4 @@
-[](banner.png)
+![](banner.png)
 
 ## Hi, I'm Mustafa
 I'm a Productivity Consultant with interests in
