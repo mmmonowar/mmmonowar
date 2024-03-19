@@ -2,9 +2,10 @@
 
 ## Hi, I'm Mustafa
 I'm a Productivity Consultant with interests in
-- productivity 
-- project-management
-- AI
+- Productivity 
+- Project-Management
+- Artificial Intelligence
+- Automation
 - Management Information Systems 
 - Human Resource Information Systems 
 - Data-Storytelling 
@@ -14,15 +15,15 @@ I'm a Productivity Consultant with interests in
 - No-Code Development
 - Database 
 - File-Management 
-<br><br>
 
-## Connect with me on:
+
+## Connect on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mmmonowar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mmmonowar) 
 
-## Tech Stack:
+## MyStack
 ![Org Mode](https://img.shields.io/badge/orgmode-%2377AA99.svg?style=flat&logo=org&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
-## GitHub Stats:
+## Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mmmonowar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mmmonowar&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmonowar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
