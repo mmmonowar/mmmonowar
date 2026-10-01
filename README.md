@@ -20,4 +20,3 @@ I'm interested in:
 ## Links
 + [Portfolio](https://portfolio-mmmonowar.vercel.app)
 + [LinkedIn](https://linkedin.com/in/mmmonowar)
-+ [INTxK](https://github.com/INTxK)
